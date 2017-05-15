@@ -3,11 +3,11 @@ Url     : http://codes-sources.commentcamarche.net/source/38831-filtre-image-sim
 Licence :
 =========
 
-Ce document intitulÃˆ Â´ Filtre image simple Âª issu de CommentCaMarche
-(codes-sources.commentcamarche.net) est mis â€¡ disposition sous les termes de
+Ce document intitulé « Filtre image simple » issu de CommentCaMarche
+(codes-sources.commentcamarche.net) est mis à disposition sous les termes de
 la licence Creative Commons. Vous pouvez copier, modifier des copies de cette
-source, dans les conditions fixÃˆes par la licence, tant que cette note
-apparaÃ“t clairement.
+source, dans les conditions fixées par la licence, tant que cette note
+apparaît clairement.
 
 Description :
 =============
